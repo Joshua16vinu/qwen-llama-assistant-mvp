@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#21F1B6"                  # Neon mint green for CTAs
+backgroundColor = "#0E0B1D"               # Deep cosmic indigo
+secondaryBackgroundColor = "#1A132F"      # Panel backgrounds, cards
+textColor = "#E6E6FA"                     # Soft lavender-white text
+font = "sans serif"

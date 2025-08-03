@@ -1,7 +1,6 @@
-# groq_helper.py
 from groq import Groq
 
-def get_groq_response(api_key, model, messages, temperature=0.7):
+def get_groq_response(api_key: str, model: str, messages: list, temperature: float = 0.7) -> str:
     client = Groq(api_key=api_key)
     response = client.chat.completions.create(
         model=model,

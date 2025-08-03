@@ -1,0 +1,14 @@
+[
+  {
+    "name": "College Fund",
+    "target": 50000,
+    "duration_months": 12,
+    "saved": 19999.99
+  },
+  {
+    "name": "emergency fund",
+    "target": 100.0,
+    "duration_months": 12,
+    "saved": 0
+  }
+]
